@@ -55,7 +55,7 @@ I build complete web apps — front-end to back-end — and ship real products.
 
 ![Twitter](https://img.shields.io/badge/Twitter-@CoolRexy150983-1DA1F2?style=flat&logo=twitter&logoColor=white)
 
-](https://x.com/CoolRexy150983)
+](https://x.com/GeorgeErubami)
 [
 
 ![Instagram](https://img.shields.io/badge/Instagram-@geocodedev-E4405F?style=flat&logo=instagram&logoColor=white)
